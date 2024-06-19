@@ -1,4 +1,12 @@
 # srtm-python 
+
+## Changes:
+* Function read_elevation_from_file revised. Inspired by this post https://gis.stackexchange.com/questions/43743/extracting-elevation-from-hgt-file
+* And a few small changes
+
+---
+# Old Readme
+
 [![Build Status](https://travis-ci.org/aatishnn/srtm-python.svg?branch=master)](https://travis-ci.org/aatishnn/srtm-python)
 
 A python program that reads SRTM1 and SRTM3 Digital Elevation Model files.
